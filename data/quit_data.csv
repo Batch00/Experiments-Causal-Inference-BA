@@ -1,0 +1,1613 @@
+treat	role	male	live_far	quit
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	100
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	100
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		100
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	100
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	100
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	100
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"		0
+"Control"	"Manager"	"Female"		0
+"Control"	"Manager"	"Male"		0
+"Control"	"Manager"	"Female"		0
+" Treatment"	"Manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"		0
+"Control"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"		0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Female"		0
+"Control"	"Manager"	"Female"		0
+"Control"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	100
+"Control"	"Manager"	"Male"		0
+"Control"	"Manager"	"Female"		0
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"		100
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"		0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Male"		0
+"Control"	"Manager"	"Female"		0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"		0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"		0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"		100
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		100
+"Control"	"Manager"	"Male"		0
+" Treatment"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	100
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Male"		0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Male"		0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"		100
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"		0
+" Treatment"	"Manager"	"Male"		0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"		0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Male"		100
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Manager"	"Female"		100
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Manager"	"Female"		0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Manager"	"Female"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"		100
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		100
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"		100
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"		100
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"		100
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	100
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"		0
+"Control"	"Manager"	"Female"		0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Female"		0
+" Treatment"	"Manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Female"		0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Female"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Female"		0
+"Control"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	100
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Female"		0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"		0
+"Control"	"Manager"	"Female"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	100
+"Control"	"Manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"		0
+" Treatment"	"Manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"		100
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"		0
+" Treatment"	"Manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"		0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Male"		100
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Female"		0
+" Treatment"	"Manager"	"Male"		100
+"Control"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"		0
+"Control"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Female"		0
+" Treatment"	"Manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"		0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	100
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"		100
+"Control"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"		0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		100
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"		100
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Male"		100
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	100
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		100
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"		100
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		100
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"		100
+" Treatment"	"Manager"	"Female"		0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"		100
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Male"		0
+"Control"	"Manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	100
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"		100
+"Control"	"Manager"	"Male"		100
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	100
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	100
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	100
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	100
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	100
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"		0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"		100
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	100
+"Control"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	100
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	"Commute <= 90 mins"	100
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	100
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	100
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"		0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	100
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	100
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	100
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	100
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	100
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	100
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	100
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	100
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"		0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	100
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	100
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	100
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	100
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	100
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	100
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"		0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	100
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Manager"	"Female"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"		100
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Manager"	"Female"	"Commute <= 90 mins"	100
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"		0
+"Control"	"Non-manager"	"Female"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+"Control"	"Non-manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Manager"	"Male"	"Commute <= 90 mins"	0
+"Control"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"	" Commute >  90 mins"	0
+" Treatment"	"Non-manager"	"Female"		0
+"Control"	"Manager"	"Male"	" Commute >  90 mins"	0
+" Treatment"	"Manager"	"Male"	"Commute <= 90 mins"	0
